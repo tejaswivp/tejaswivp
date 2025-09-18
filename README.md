@@ -1,108 +1,88 @@
 # 👋 Hi, I'm Tejaswi V. Panchagnula
 
-**MS Student @ Purdue | Deep Learning, Computer Vision & AI Enthusiast**
+**MS Student @ Purdue | Deep Learning, Computer Vision & AI Explorer**
 
-Welcome to my GitHub! I’m currently pursuing my Master of Science in Electrical and Computer Engineering at Purdue University, with research experience at IIT Madras. I’m driven by curiosity and creativity, and I’m seeking summer internships and collaborative opportunities in Deep Learning, Computer Vision, Generative Models, Visual Perception, and Human-inspired AI.
-
----
-
-## 🔥 Areas of Interest
-
-- Deep Learning & Computer Vision
-- Generative Models
-- Visual Perception & Human-inspired AI
-- Statistical Modeling
-- Large Language Models & Transformers
+Welcome! I love building and experimenting with AI, ML, and data science, especially where research meets real-world impact. My repositories highlight my interests in human perception, financial machine learning, and practical deep learning.
 
 ---
 
-## 🎓 Education
+## 🚀 Featured Projects
 
-**Purdue University (2025 - 2027)**  
-Master of Science, Electrical and Computer Engineering
+### [Gaze Analysis](https://github.com/darthvader2603/gaze-analysis)
+Human eye gaze tracking and analysis.  
+Explores how human visual search resembles animal foraging, using deep learning and statistical models.
 
-**IIITDM Kancheepuram (2020 - 2024)**  
-Bachelor of Technology, Electronics and Communication Engineering  
-CGPA: 8.71 (Core: 8.9)
+### [ETF Analysis ML](https://github.com/darthvader2603/ETF-analysis-ml)
+Automated ETF trading system powered by LightGBM.  
+Rolling training, technical indicators, dynamic position sizing, trailing stop-loss, volatility filtering, and backtesting.
 
-**IIT Madras Student Exchange & Online Programs**  
-Courses: Game Theory, Deep Learning, Computational Neuroscience, Data Science, ML Fundamentals
+### [FYP (Final Year Project)](https://github.com/darthvader2603/fyp)
+Repository for my undergraduate research and capstone work.  
+Currently organizing content and experiments—watch this space for updates!
+
+### [Personal Website](https://darthvader2603.github.io/)
+My online portfolio, blog, and project hub.
 
 ---
 
-## 🏆 Experience
+## 💼 Work Experience
 
 **Research Associate, Walmart Center for Technical Excellence, IIT Madras**  
-*June 2024 - July 2025*  
-- Led a human gaze trajectory study over 80+ subjects and 50 images.
-- Modeled and predicted gaze data using Deep Learning for visual cognition research.
+*June 2024 – July 2025*  
+- Led a large-scale human gaze trajectory study (80+ subjects, 50 images).
+- Applied deep learning and statistical modeling for visual cognition research.
+- Research submitted for journal publication.
 
-**Research Intern, SENAI Lab, IIT Madras (Prof. Raghunathan Rengaswamy)**  
-*May 2022 - July 2025*  
-- Collected and analyzed large-scale human gaze datasets.
+**Research Intern, SENAI Lab, IIT Madras**  
+*May 2022 – July 2025*  
+- Collected and analyzed human gaze datasets.
 - Developed predictive models for visual exploration and perception.
-- Findings submitted for journal publication.
-
----
-
-## 🛠️ Skills
-
-**Technical:**  
-Python, PyTorch, TensorFlow, Matlab, C/C++, Deep Learning Frameworks, ML Models, Transformers, LLMs, MultiSim
-
-**Soft:**  
-Instinctive leader, keen listener, creative mind, excellent communicator, team player
-
-**Co-Curricular:**  
-Semi-professional musician (Veena), College basketball gold medalist, Fitness enthusiast
 
 ---
 
 ## 🧠 Research Projects
 
-- **Eyes Forage for Information Like Animals (Jan 2023 – July 2025):**  
-  Large-scale gaze tracking (~4M+ points), MobileNetV2-based U-Net CNN for fixation predictions; bridges statistical foraging models and deep learning for attention modeling.
+- **Eyes Forage for Information Like Animals**  
+  Large-scale gaze tracking (~4M+ points), MobileNetV2-based U-Net for fixation predictions; bridges statistical foraging models and deep learning for attention modeling.
 
-- **Adaptive AGI Cognitive Architecture (May 2025 – July 2025):**  
-  Novel PyTorch architecture with dynamic routing, surprise-driven loops, and neurogenesis for task adaptability.
+- **Adaptive AGI Cognitive Architecture**  
+  Novel PyTorch-based architecture featuring dynamic routing, surprise-driven loops, and neurogenesis for flexible task handling.
 
-- **Algorithmic Trading System (June 2025 – July 2025):**  
+- **Algorithmic Trading System**  
   Automated ETF trading using Python & LightGBM; outperformed benchmarks on Sharpe Ratio and CAGR.
 
-- **Entropy-based Redundancy Filter (Feb 2024 – May 2024):**  
-  Image redundancy detection and removal for compression using entropy metrics.
+---
 
-- **EEG-based Stress Monitor (Jan 2021 – May 2023):**  
-  Deep Learning-based product, showcased at IIITDM industry open house (EHIPASSIKO), 2022 & 2023.
+## 🛠️ Tech Toolbox
+
+- **Languages:** Python, C/C++, MATLAB
+- **Frameworks:** PyTorch, TensorFlow, LightGBM
+- **Domains:** Deep Learning, Computer Vision, Human Perception, Financial ML, Generative AI
 
 ---
 
-## 🚀 Featured Repositories
+## 🎸 A Little About Me
 
-- [Personal Website](https://darthvader2603.github.io/)
-- [Gaze Analysis](https://github.com/darthvader2603/gaze-analysis)
-- [ETF ML Analysis](https://github.com/darthvader2603/ETF-analysis-ml)
-- [FYP Research](https://github.com/darthvader2603/fyp)
-
----
-
-## 🎸 Extra-curricular & Leadership
-
-- Performed Veena at IIT Madras Music Club.  
-- Gold medals in basketball at Inter IIIT sports meets (2023, 2024).
-- Winner at college quizzes & events.
-- General Affairs Secretary, IIITDM Kancheepuram.
-- President, SPICMACAY (Indian Classical Music Promotion).
-- Quality Management Lead, IIITDM technical festival (Vashisht).
-- Class representative, 5 semesters.
-- Placement Cell Coordinator.
+- Semi-professional Veena player (Indian classical music) 🎶
+- Basketball gold medalist 🏀
+- Quiz enthusiast and always up for a challenge 🤓
+- I love exploring new ideas—whether in AI, on the court, or with music.
+- Always open to collaborations and conversations!
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-[LinkedIn](https://www.linkedin.com/in/tejaswi-panchagnula-5b8b2a236)  
-Email: tejas007@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/tejaswi-panchagnula-5b8b2a236)
+- Email: tejas007@gmail.com
+
+---
+
+## 🎓 Education (Concise)
+
+- **MS, Electrical & Computer Engineering, Purdue University**
+- **B.Tech, Electronics & Communication Engineering, IIITDM Kancheepuram**
+- **Exchange & Online Programs, IIT Madras**
 
 ---
 
@@ -110,7 +90,3 @@ Email: tejas007@gmail.com
 > *– Alan Kay*
 
 ---
-
-<!--
-Open to internships, research, and collaborative projects in Deep Learning, Computer Vision, and AI.
--->
