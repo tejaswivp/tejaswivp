@@ -8,19 +8,19 @@ Welcome! I love building and experimenting with AI, ML, and data science, especi
 
 ## 🚀 Featured Projects
 
-### [Gaze Analysis](https://github.com/darthvader2603/gaze-analysis)
+### [Gaze Analysis](https://github.com/tejaswivp/gaze-analysis)
 Human eye gaze tracking and analysis.  
 Explores how human visual search resembles animal foraging, using deep learning and statistical models.
 
-### [ETF Analysis ML](https://github.com/darthvader2603/ETF-analysis-ml)
+### [ETF Analysis ML](https://github.com/tejaswivp/ETF-analysis-ml)
 Automated ETF trading system powered by LightGBM.  
 Rolling training, technical indicators, dynamic position sizing, trailing stop-loss, volatility filtering, and backtesting.
 
-### [FYP (Final Year Project)](https://github.com/darthvader2603/fyp)
+### [FYP (Final Year Project)](https://github.com/tejaswivp/fyp)
 Repository for my undergraduate research and capstone work.  
 Currently organizing content and experiments—watch this space for updates!
 
-### [Personal Website](https://darthvader2603.github.io/)
+### [Personal Website](https://tejaswivp.github.io/)
 My online portfolio, blog, and project hub.
 
 ---
